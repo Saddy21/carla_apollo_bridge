@@ -181,9 +181,9 @@ Alternatively, simply perform the following steps：
 
     Note
 
-    If the command docker-compose fails after installation, check your path. You can also create a symbolic link to /usr/bin or any other directory in your path. For example:
+    If the command docker-compose fails after installation, check your path. You can also create a symbolic link to /usr/bin or any other directory in your path. For example: sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 
- sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
+ 
 
    ```
 * Pull carla image and run
